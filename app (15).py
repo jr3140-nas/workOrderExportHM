@@ -30,8 +30,8 @@ CRAFT_ORDER = [
 # Address book mapping of employee numbers to name and craft description.
 # This data is embedded so the application works without external dependencies.
 ADDRESS_BOOK = [
-   {"AddressBookNumber": "1020581", "Name": "FOX, ANTHONY SCOTT", "Craft Description": "DC Mech Tech"},
-    {"AddressBookNumber": "594232", "Name": "WILLIAMS, JOSEPH LEE", "Craft Description": "Elec Day Tech"},
+   {"AddressBookNumber": "1020581", "Name": "FOX, ANTHONY SCOTT", "Craft Description": "DC Mech Days"},
+    {"AddressBookNumber": "594232", "Name": "WILLIAMS, JOSEPH LEE", "Craft Description": "Elec Day Days"},
     {"AddressBookNumber": "1089326", "Name": "OUELLETTE, JACOB DYLAN", "Craft Description": "Elec Day Tech"},
     {"AddressBookNumber": "172785", "Name": "COOK, NICHOLAUS C.", "Craft Description": "Elec Day Tech"},
     {"AddressBookNumber": "198424", "Name": "CULVER SR., MICHAEL W.", "Craft Description": "Elec Day Tech"},
@@ -49,12 +49,12 @@ ADDRESS_BOOK = [
     {"AddressBookNumber": "1134721", "Name": "ABBOTT, JUSTIN RAYMOND", "Craft Description": "Elec Turns"},
     {"AddressBookNumber": "1133139", "Name": "STAFFORD, TY ANDREW", "Craft Description": "Elec Turns"},
     {"AddressBookNumber": "1133956", "Name": "CRAIG, DREW ASHTON", "Craft Description": "Elec Turns"},
-    {"AddressBookNumber": "1081594", "Name": "SUTHERLAND, AARON ROSS", "Craft Description": "FM Mech Tech"},
-    {"AddressBookNumber": "1170693", "Name": "COMBS, JONATHAN RUSSELL", "Craft Description": "FM Mech Tech"},
-    {"AddressBookNumber": "1081535", "Name": "KNOX, EZRA NATHANIEL", "Craft Description": "Furnace Mech Tech"},
-    {"AddressBookNumber": "124118", "Name": "BARTRAM, JACKIE L.", "Craft Description": "Furnace Mech Tech"},
+    {"AddressBookNumber": "1081594", "Name": "SUTHERLAND, AARON ROSS", "Craft Description": "FM Mech Days"},
+    {"AddressBookNumber": "1170693", "Name": "COMBS, JONATHAN RUSSELL", "Craft Description": "FM Mech Days"},
+    {"AddressBookNumber": "1081535", "Name": "KNOX, EZRA NATHANIEL", "Craft Description": "Furnace Mech Days"},
+    {"AddressBookNumber": "124118", "Name": "BARTRAM, JACKIE L.", "Craft Description": "Furnace Mech Days"},
     {"AddressBookNumber": "797013", "Name": "CHRISTMAN, DUSTIN ALLEN", "Craft Description": "HVAC Tech"},
-    {"AddressBookNumber": "78131", "Name": "DUKE, DUANE A.", "Craft Description": "Lube Tech Mech"},
+    {"AddressBookNumber": "78131", "Name": "DUKE, DUANE A.", "Craft Description": "Lube Tech Days"},
     {"AddressBookNumber": "86342", "Name": "BOAZ SR., CHARLES T.", "Craft Description": "Mech Turns"},
     {"AddressBookNumber": "1141729", "Name": "LIND, JACOB ANTHONY", "Craft Description": "Mech Turns"},
     {"AddressBookNumber": "183855", "Name": "ROMANS, PAUL R.", "Craft Description": "Mech Turns"},
@@ -66,8 +66,8 @@ ADDRESS_BOOK = [
     {"AddressBookNumber": "155539", "Name": "FRANKLIN, BENJAMIN J.", "Craft Description": "Mech Turns"},
     {"AddressBookNumber": "297490", "Name": "HALL, NATHANIAL TUCKER", "Craft Description": "Mech Turns"},
     {"AddressBookNumber": "1130739", "Name": "HANKINSON, TRAVIS L.", "Craft Description": "Mech Turns"},
-    {"AddressBookNumber": "110488", "Name": "BREWER, JEFFREY D.", "Craft Description": "Plate Shop Mech Tech"},
-    {"AddressBookNumber": "142746", "Name": "MATTHEWS, MICHAEL W.", "Craft Description": "RM Mech Tech"}
+    {"AddressBookNumber": "110488", "Name": "BREWER, JEFFREY D.", "Craft Description": "Plate Shop Mech Days"},
+    {"AddressBookNumber": "142746", "Name": "MATTHEWS, MICHAEL W.", "Craft Description": "RM Mech Days"}
 ]
 
 
