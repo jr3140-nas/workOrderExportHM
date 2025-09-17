@@ -17,9 +17,9 @@ from matplotlib.backends.backend_pdf import PdfPages
 CRAFT_ORDER = [
  "Mech Turns",
     "Furnace Mech Tech",
-    "RM Mech Tech",
-    "FM Mech Tech",
-    "DC Mech Tech",
+    "RM Mech Days",
+    "FM Mech Days",
+    "DC Mech Days",
     "Lube Tech Mech",
     "Plate Shop Mech Tech",
     "Elec Turns",
